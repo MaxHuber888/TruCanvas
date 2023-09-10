@@ -11,7 +11,7 @@ Welcome to TruCanvas! This application allows users to come together and create 
 
 1. Clone this repository to your local machine.
 
-``` git clone https://github.com/your-repo.git ```
+```https://github.com/MaxHuber88/TruCanvas.git```
 
 2. Install the necessary dependencies (if any) as specified in the project documentation.
 
