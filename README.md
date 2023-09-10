@@ -25,6 +25,6 @@ Welcome to TruCanvas! This application allows users to come together and create 
 
 ## Support
 
-If you encounter any issues or have questions about this application, please feel free to [open an issue](https://github.com/your-repo/issues) on our GitHub repository. We appreciate your feedback and will do our best to assist you.
+If you encounter any issues or have questions about this application, please feel free to [open an issue](https://github.com/MaxHuber88/TruCanvas/issues) on our GitHub repository. We appreciate your feedback and will do our best to assist you.
 
 Happy Collaborative Painting! 🎨
