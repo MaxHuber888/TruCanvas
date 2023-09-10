@@ -13,7 +13,7 @@ Welcome to TruCanvas! This application allows users to come together and create 
 
 ```https://github.com/MaxHuber88/TruCanvas.git```
 
-2. Install the necessary dependencies (if any) as specified in the project documentation.
+2. Install the necessary dependencies as specified in the [dub.selections file](https://github.com/MaxHuber88/TruCanvas/blob/main/dub.selections.json).
 
 3. Build and run the application using dub.
 
