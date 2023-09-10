@@ -1,0 +1,17 @@
+{
+  "authors": ["Arnav Joshi"],
+  "copyright": "Copyright © 2023, Arnav Joshi",
+  "dependencies": {
+    "bindbc-loader": "~>1.0.3",
+    "bindbc-sdl": "~>1.3.5",
+    "unit-threaded": "~>2.1.5"
+  },
+  "description": "live paint app",
+  "license": "proprietary",
+  "name": "finalproject",
+  "configurations": [
+    {
+      "name": "docs"
+    }
+  ]
+}
