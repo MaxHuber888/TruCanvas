@@ -1,6 +1,6 @@
 {
-  "authors": ["Arnav Joshi"],
-  "copyright": "Copyright © 2023, Arnav Joshi",
+  "authors": ["Arnav Joshi, Max Huber"],
+  "copyright": "Copyright © 2023, Arnav Joshi, Max Huber",
   "dependencies": {
     "bindbc-loader": "~>1.0.3",
     "bindbc-sdl": "~>1.3.5",
