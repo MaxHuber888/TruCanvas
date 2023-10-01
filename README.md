@@ -1,4 +1,5 @@
 # TruCanvas
+![](./trucanvas.JPG)
 Welcome to TruCanvas! This application allows users to come together and create collaborative artwork in real-time, all powered by the DLang programming language.
 
 ## Features
